@@ -37,6 +37,12 @@
     margin: 0 0;
     position: relative;
 }
+.frame1_container{
+    width: 100%;
+    color: white;
+    position: absolute;
+    top: 14.5rem;
+}
 .frame1_h1{
     margin-bottom: 6.5rem;
 }
