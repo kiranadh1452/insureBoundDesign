@@ -3,11 +3,17 @@
     list-style: none; 
 }
 .nav_items_list{
-    margin-top: 1.5rem;
+    padding: 0.8rem;
 }
 .nav_items_list a{
+    text-decoration: none;
     color: #737373;
-
+    width: 100%;
+}
+.nav_items_list:hover, .nav_items_list:active{
+    text-decoration: none;
+    background-color: #ece7e7;
+    border-bottom: none;
 }
 .head_icon{
     margin-right: 1.7rem;
