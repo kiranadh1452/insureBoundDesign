@@ -52,9 +52,9 @@ a{
 	text-decoration: none;
 }
 
-a:hover{
+/* a:hover{
 	border-bottom: 1px solid black;
-}
+} */
 
 img{
 	max-width: 100%;

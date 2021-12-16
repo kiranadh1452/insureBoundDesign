@@ -14,6 +14,7 @@
     text-decoration: none;
     background-color: #ece7e7;
     border-bottom: none;
+    cursor: pointer;
 }
 .head_icon{
     margin-right: 1.7rem;
@@ -28,6 +29,10 @@
 }
 
 .service_bg{
-    display: block;
+    display:block;
+    margin: 0 auto;
+    width: 100%;
+}
+.body_frame_1{
     margin: 0 auto;
 }
