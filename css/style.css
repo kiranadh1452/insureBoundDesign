@@ -46,3 +46,21 @@
 .frame1_h1{
     margin-bottom: 6.5rem;
 }
+.frame1_h4{
+    margin-bottom: 3rem;
+}
+.frame1_btn{
+    border-radius: 2%;
+    width: 20rem;
+    height: 4rem;
+    margin-top: 2%;
+    font-size: 3em;
+}
+.blue_fill{
+    background-color: #23A6F0;
+}
+.no_fill{
+    background-color: transparent;
+    color: white;
+    border: white solid 2px;
+}
