@@ -31,3 +31,6 @@
 .text_align_center{
     text-align: center;
 }
+body{
+    overflow: hidden;
+}
