@@ -1,21 +1,22 @@
 .nav_items_head{
     font-size: 300%;
-    list-style: none;
- 
+    list-style: none; 
 }
-.nav_items_head li{
-    text-decoration: none;
-    color: #737373;
+.nav_items_list{
     margin-top: 1.5rem;
 }
+.nav_items_list a{
+    color: #737373;
 
-.nav_icon{
-    margin-right: 2rem;
-    width: 2rem;
-    height: 2rem;
+}
+.head_icon{
+    margin-right: 1.7rem;
+    width: 1.7rem;
+    height: 1.7rem;
 }
 
 .logo_container{
-    font-size: 3em;
+    font-size: 2em;
     margin-left: 2rem;
+    padding: auto 0;
 }

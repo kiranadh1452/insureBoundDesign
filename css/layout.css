@@ -15,14 +15,10 @@
     clear: both;
     display: table;
 }
-.header_nav{
-    padding: 1rem 0rem;
+.nav_bar{
+    padding: 1rem 0rem 3rem 0rem;
     text-align: center;
-
 }
-.header_nav>a{
-    width: 100%;
-} 
 .float_left{
     float: left;
 }
@@ -31,4 +27,8 @@
 }
 .text_align_center{
     text-align: center;
+}
+
+.border{
+    border: 1px solid;
 }
