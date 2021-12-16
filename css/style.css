@@ -36,6 +36,7 @@
 .body_frame_1{
     margin: 0 0;
     position: relative;
+    overflow: hidden;
 }
 .frame1_container{
     width: 100%;
@@ -50,11 +51,14 @@
     margin-bottom: 3rem;
 }
 .frame1_btn{
-    border-radius: 2%;
+    border-radius: 1.6rem;
     width: 20rem;
     height: 4rem;
     margin-top: 2%;
     font-size: 3em;
+}
+.frame1_btn:hover{
+    background-color: grey;
 }
 .blue_fill{
     background-color: #23A6F0;
