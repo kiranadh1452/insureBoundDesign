@@ -27,6 +27,7 @@
     padding: auto 0;
 }
 
-.body_frame1{
-    background-size:cover;
+.service_bg{
+    display: block;
+    margin: 0 auto;
 }
