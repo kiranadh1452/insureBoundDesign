@@ -1,4 +1,15 @@
 .nav_items_head{
-    font-size: 3rem;
+    font-size: 300%;
     list-style: none;
+}
+
+.nav_icon{
+    margin-right: 2rem;
+    width: 2rem;
+    height: 2rem;
+}
+
+.logo_container{
+    font-size: 3em;
+    margin-left: 2rem;
 }
