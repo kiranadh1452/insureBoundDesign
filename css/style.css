@@ -1,6 +1,12 @@
 .nav_items_head{
     font-size: 300%;
     list-style: none;
+ 
+}
+.nav_items_head li{
+    text-decoration: none;
+    color: #737373;
+    margin-top: 1.5rem;
 }
 
 .nav_icon{
