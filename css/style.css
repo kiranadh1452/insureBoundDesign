@@ -39,18 +39,16 @@
 }
 .body_frame_1{
     margin: 0 0;
-    /* position: relative; */
     background-image: url('../images/cover1.png');
-    overflow: hidden;
+    /* overflow: hidden; */
     background-repeat: no-repeat;
     background-size: cover;
+    padding-bottom: 2%;
 }
 .frame1_container{
     width: 100%;
     color: white;
     margin-bottom: 10%;
-    /* position: absolute;
-    top: 14.5rem; */
 }
 .frame1_container_top{
     margin-top: 5.6rem;
@@ -88,11 +86,10 @@
 }
 .frame1_container_down{
     margin-top: 12%;
-}
-.frame1_container_down{
     text-align: left;
     font-size:xx-large;
 }
+
 .moto_title{
     font-weight: bold;
 }
@@ -132,8 +129,8 @@
     margin-top: 14%;
 }
 .feature_text{
-   font-size: 1rem;
-    line-height: 1.4rem ;
+    font-size: 1rem;
+    line-height: 1.4rem;
 }
 .grey_text{
     color: #737373;
