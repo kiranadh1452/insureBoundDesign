@@ -68,11 +68,12 @@
 }
 .frame1_btn{    
     border-radius: 1rem;
+    border: none;
     width: 16rem;
     height: 3rem;
     margin-top: 2%;
     font-size: 1.6em;
-    color: height;
+    color: white;
 }
 .frame1_btn:hover{
     background-color: grey;
