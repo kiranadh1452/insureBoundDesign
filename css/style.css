@@ -189,7 +189,7 @@
     width: 60%;
 }
 
-.form_email_val{
+/* .form_email_val{
     margin: 0 10%;
     padding: 0;
     width: 80%;
@@ -208,4 +208,31 @@
     padding: 3% 0;
     width: 30%;
     border: solid 1px black;
+} */
+
+.email_id{
+    width: 60%;
+    padding-right: 10%;
+}
+
+.submit_btn{
+    margin-left: -3.05rem;
+    padding: 0;
+    background: #23A6F0;
+    color: white;
+    border: 0;
+}
+
+
+/* pricing section ahead */
+.pricing_text{
+    width: 72%;
+    margin: 0 14%;
+}
+.pricing_title{
+    font-size: 2.7rem;
+    margin: 5% 0;
+}
+.pricing_plans{
+    padding: 10% 0;
 }
