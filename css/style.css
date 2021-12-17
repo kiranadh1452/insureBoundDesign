@@ -236,3 +236,9 @@
 .pricing_plans{
     padding: 10% 0;
 }
+.pricing_plans img:hover{
+    cursor: pointer;
+}
+.pricing_plan_specific{
+    margin-bottom: 10%;
+}

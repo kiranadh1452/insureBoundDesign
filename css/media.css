@@ -152,4 +152,23 @@
         margin: 0 14%;
         width: 72%;
     }
+
+
+
+    /* Pricing section ahead*/
+    .pricing_text{
+        width: 50%;
+        margin: 0 25%;
+    }
+    .pricing_title{
+        font-size: 2.7rem;
+        margin: 2% 0;
+    }
+    .pricing_plans{
+        padding: 5% 0;
+    }
+    .pricing_plan_specific{
+        display: inline-block;
+        margin: 1% 0%;
+    }
 }
