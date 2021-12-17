@@ -84,6 +84,9 @@
     text-align: left;
     font-size:xx-large;
 }
+.moto_title{
+    font-weight: bold;
+}
 .moto_blocks{
     margin: 8% 14%;
     padding: 2% 7%;
@@ -103,7 +106,8 @@
     margin-bottom: 2%;
 }
 .moto_text1{
-    font-size: 80%;
+    font-size: 60%;
+    line-height: 1rem;
 }
 
 .feature_specific{
