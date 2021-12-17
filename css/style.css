@@ -23,9 +23,13 @@
 }
 
 .logo_container{
+    display: inline-block;
     font-size: 2em;
     margin-left: 2rem;
     padding: auto 0;
+}
+.header_options{
+    display: inline-block;
 }
 
 .service_bg{
@@ -53,6 +57,9 @@
 }
 .frame1_h1{
     margin-bottom: 6.5rem;
+    font-size: 3.2rem;
+	font-weight: bold;
+	line-height: 5rem;
 }
 .frame1_h4{
     font-size: 1.9rem;
@@ -60,7 +67,8 @@
     margin-bottom: 12%;
 }
 .frame1_btn{
-    border-radius: 1.2rem;
+    
+    border-radius: 1rem;
     width: 12rem;
     height: 4rem;
     margin-top: 2%;
@@ -89,7 +97,7 @@
 }
 .moto_blocks{
     margin: 8% 14%;
-    padding: 2% 7%;
+    padding: 10% 7%;
     width: 60%;
     background-color: white;
     color: black;
@@ -103,11 +111,13 @@
     text-align: left;
     margin-top: 1%;
     margin-left: 1%;
-    margin-bottom: 2%;
+    margin-bottom: 4%;
 }
 .moto_text1{
+    margin-top: 10%;
     font-size: 60%;
     line-height: 1rem;
+    color: white;
 }
 
 .feature_specific{
