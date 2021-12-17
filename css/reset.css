@@ -64,11 +64,3 @@ h4{
 	font-size: 1.7rem;
 	line-height: 3rem;
 }
-/* 
-@media only screen and (max-device-width : 466px){
-	h1, h4{
-		font-size: 1rem;
-		margin: 0;
-		line-height: normal;
-	}
-} */

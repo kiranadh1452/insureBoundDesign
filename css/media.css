@@ -13,7 +13,7 @@
 
     }
     .header_container{
-        margin: auto 10%;
+        margin: auto 5rem;
         margin-right: 0;
         color: white;
         font-weight: bold;
@@ -62,7 +62,7 @@
         height: 2rem;
         cursor: pointer;
     }
-    .account_link:hover,{
+    .account_link:hover{
         background-color: grey;
     }
     .header_options{
@@ -192,5 +192,23 @@
     .pricing_plan_specific{
         display: inline-block;
         margin: 1% 0%;
+    }
+}
+
+
+
+@media only screen and (max-device-width : 1231px) and (min-device-width : 920px){
+    .hide_me{
+        visibility: visible;
+    }
+}
+@media only screen and (min-device-width : 1232px){
+    .hide_me{
+        visibility: hidden;
+    }
+}
+@media only screen and (max-device-width : 1231px){
+    .login_signup{
+        visibility: hidden;
     }
 }
