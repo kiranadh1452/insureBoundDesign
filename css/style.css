@@ -44,6 +44,7 @@
 .frame1_container{
     width: 100%;
     color: white;
+    margin-bottom: 10%;
     /* position: absolute;
     top: 14.5rem; */
 }
@@ -54,11 +55,9 @@
     margin-bottom: 6.5rem;
 }
 .frame1_h4{
-    margin-bottom: 3rem;
-    font-size: 2.6rem;
-	font-weight: normal;
-	margin: 0 8.2rem;
-	line-height: 3.2rem;
+    font-size: 1.9rem;
+	margin: 0 15%;
+    margin-bottom: 10%;
 }
 .frame1_btn{
     border-radius: 1.2rem;
@@ -86,15 +85,15 @@
     font-size:xx-large;
 }
 .moto_blocks{
-    margin: 5% 20%;
+    margin: 5% 14%;
     padding: 2% 7%;
-    width: 45%;
+    width: 60%;
     background-color: white;
     color: black;
 }
 .frame1_dwn_block3{
     background-color: #23A6F0;
-    border: solid 1px black;
+    color: white;
 }
 
 .moto_icon{
@@ -102,4 +101,7 @@
     margin-top: 1%;
     margin-left: 1%;
     margin-bottom: 2%;
+}
+.moto_text1{
+    font-size: 80%;
 }

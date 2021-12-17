@@ -60,21 +60,20 @@ img{
 	max-width: 100%;
 }
 h1{
-	font-size: 5rem;
+	font-size: 3.2rem;
 	font-weight: bold;
-	margin: 0 5rem;
-	line-height: 5.6rem;
+	margin: 0 5%;
+	line-height: 5rem;
 }
 h4{
-	font-size: 2rem;
-	font-weight: normal;
-	margin: 0;
+	font-size: 1.7rem;
+	line-height: 3rem;
 }
-
+/* 
 @media only screen and (max-device-width : 466px){
 	h1, h4{
 		font-size: 1rem;
 		margin: 0;
 		line-height: normal;
 	}
-}
+} */
