@@ -1,0 +1,5 @@
+@media only screen and (min-device-width : 600px){
+    .body_frame1{
+        background-image: url('../images/cover1.png');
+    }
+}
