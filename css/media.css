@@ -3,7 +3,7 @@
         background: none;
     }
     .header_and_logo{
-        position: relative;
+        /* position: relative; */
         background-image: url('../images/desktop/header_bg_desktop.png');
         background-repeat: no-repeat;
         background-size: cover;
@@ -14,6 +14,7 @@
     }
     .header_container{
         margin: auto 10%;
+        margin-right: 0;
         color: white;
         font-weight: bold;
     }
@@ -43,20 +44,41 @@
         background-color: transparent;
         cursor: pointer;
     }
+
+    /* login and signup */
+    .login_signup{
+        display: inline-block;
+        margin-left: 15%;
+        padding: 0;
+    }
+    .account_link{
+        border: none;
+        border-radius: 0.4rem;
+        color: white;
+        font-size: 0.9rem;
+        padding: 0.2rem 0.4rem;
+        font-weight: bold;
+        margin-right: 2em;   
+        height: 2rem;
+        cursor: pointer;
+    }
+    .account_link:hover,{
+        background-color: grey;
+    }
     .header_options{
         display: none;
     }
 
 
     /* Frame 1 - here onwards */
-    .body_frame_1{
+    /* .body_frame_1{
         background-image: none;
         position: absolute;
         top: 1rem;
         left: 0rem;
         width: 100%;
 
-    }
+    } This was to manage relative positioning but this made the contents of parent div irresponsive.  Parent-> "header_and_logo"*/
     .frame1_h1{        
         margin:3% 30%;
         font-size: 3.2rem;
