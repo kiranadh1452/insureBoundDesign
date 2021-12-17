@@ -188,8 +188,24 @@
     margin: 5% 20%;
     width: 60%;
 }
-.form_email_val input{
-    padding: 2% 0;
-    margin: 1% 10%;
-    position: relative;
+
+.form_email_val{
+    margin: 0 10%;
+    padding: 0;
+    width: 80%;
+    outline: none;
+    border-radius: 2%;
+}
+.email_id{
+    display: inline;
+    width: 50%;
+    padding: 3% 5%;
+    margin-right: 0%;
+    border: solid 1px black;
+}
+.form_submit_btn{
+    display: inline;
+    padding: 3% 0;
+    width: 30%;
+    border: solid 1px black;
 }
