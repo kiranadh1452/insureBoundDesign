@@ -251,3 +251,17 @@
 .footer_menu_items{
     margin: 5% 0;
 }
+.footer_title_second:nth-last-child(1){
+    font-weight: normal;
+    padding: 10% 0;
+}
+.social_media_icon{
+    display: inline-block;
+    margin-right: 4%;
+}
+.social_media_links{
+    vertical-align: middle;
+}
+.social_media_icon svg:hover{
+    background: #DDC9C5;
+}
