@@ -31,6 +31,9 @@
 .text_align_center{
     text-align: center;
 }
+.text_align_left{
+    text-align: left;
+}
 .frame2{
     margin: 10% 0;
 }
