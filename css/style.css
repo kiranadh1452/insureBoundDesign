@@ -3,7 +3,7 @@
     list-style: none; 
 }
 .nav_items_list{
-    padding: 0.8rem;
+    padding: 1.4rem;
 }
 .nav_items_list a{
     text-decoration: none;
@@ -57,7 +57,7 @@
 .frame1_h4{
     font-size: 1.9rem;
 	margin: 0 15%;
-    margin-bottom: 10%;
+    margin-bottom: 12%;
 }
 .frame1_btn{
     border-radius: 1.2rem;
@@ -78,7 +78,7 @@
     border: white solid 2px;
 }
 .frame1_container_down{
-    margin-top: 10px; /*Test*/
+    margin-top: 12%; /*Test*/
 }
 .frame1_container_down{
     text-align: left;
