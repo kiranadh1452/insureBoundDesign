@@ -197,17 +197,17 @@
 
 
 
-@media only screen and (max-device-width : 1231px) and (min-device-width : 920px){
+@media only screen and (max-device-width : 1300px) and (min-device-width : 920px){
     .hide_me{
         visibility: visible;
     }
 }
-@media only screen and (min-device-width : 1232px){
+@media only screen and (min-device-width : 1301px){
     .hide_me{
         visibility: hidden;
     }
 }
-@media only screen and (max-device-width : 1231px){
+@media only screen and (max-device-width : 1300px){
     .login_signup{
         visibility: hidden;
     }
