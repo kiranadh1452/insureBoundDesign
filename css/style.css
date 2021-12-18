@@ -302,6 +302,7 @@
     height: 100%;
     color: white;
     padding: 7.2% 0;
+    padding-bottom: 2%;
 }
 .contact-2-container{
     margin: 5rem 10%;
@@ -333,7 +334,8 @@
 }
 #appointment-form *{
     outline: none;
-    width: 99%;
+    line-height: 2.3rem;
+    width: 100%;
     margin: 5% 0;
     padding: 0;
     
@@ -351,11 +353,12 @@
     background-color: #fafafa;
     border: gray solid 1px;
 }
-#dept, .book_btn{
+#dept, .book_btn, #time{
     font-size: 1rem;
     line-height: 2.3rem;
     background-color: #fafafa;
     border-radius: 0.4rem;
+    padding: 0.6rem 0;
 }
 .book_btn{
     background-color: #23A6F0;
