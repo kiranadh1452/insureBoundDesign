@@ -65,3 +65,9 @@ h2{
 body{
 	font-family: 'Montserrat';
 }
+button:hover{
+	cursor: pointer;
+}
+a:hover{
+	cursor: pointer;
+}

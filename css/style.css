@@ -255,6 +255,12 @@
 }
 .footer_menu_items{
     margin: 5% 0;
+    border: solid 1px #fafafa;
+}
+.footer_menu_items:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    border: solid 1px rgb(182, 178, 178);
 }
 .footer_title_second:nth-last-child(1){
     font-weight: normal;
@@ -269,6 +275,7 @@
 }
 .social_media_icon svg:hover{
     background: #DDC9C5;
+    cursor: pointer;
 }
 .footer_main{
     background-color: white;
