@@ -193,6 +193,39 @@
         display: inline-block;
         margin: 1% 0%;
     }
+
+    /* footer and other */
+    .contact_btn{
+        float: right;
+        margin: 1% 0;
+    }
+    .footer_title, .footer_all_text{
+        display: inline-block;
+    }
+    .footer_title_second{
+        padding: 0;
+    }
+    .contact_us{
+        background-color: #fafafa;
+    }
+    .footer_container{
+        margin: 0;
+        padding: 0;
+        width: 100%;
+    }
+    .contact_us{
+        margin: 2% 0;
+        padding: 0 13.5%;
+        width: 73%;
+    }
+    .footer_in-block{
+        display: inline-block;
+        margin: 0%;
+        padding: 0;
+        width: 14.5%;
+        line-height: 2rem;
+        vertical-align: text-top;
+    }
 }
 
 
